@@ -29,12 +29,12 @@ Step 1. Add the JitPack repository to your build file
   
   # Usage
   
-    List<String> splitStringListByComma = StringToListSplitter.splitIt(stringToBeSplit, ",");
+    List<String> splitStringToListByComma = StringToListSplitter.splitIt(stringToBeSplit, ",");
   
-    List<String> splitStringListByFullstop = StringToListSplitter.splitIt(stringToBeSplit, ".");
+    List<String> splitStringToListByFullstop = StringToListSplitter.splitIt(stringToBeSplit, ".");
   
-    List<String> splitStringListByLetterA = StringToListSplitter.splitIt(stringToBeSplit, "a");
+    List<String> splitStringToListByLetterA = StringToListSplitter.splitIt(stringToBeSplit, "a");
   
-    List<String> splitStringListByWord = StringToListSplitter.splitIt(stringToBeSplit, "word");
+    List<String> splitStringToListByWord = StringToListSplitter.splitIt(stringToBeSplit, "word");
   
   
