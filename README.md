@@ -23,7 +23,7 @@ Step 1. Add the JitPack repository to your build file
 
     dependencies {
 	        
-		implementation 'com.github.subrud:StringToListSplitter:0.0.1.1'
+		implementation 'com.github.Subroid:StringToListSplitter:0.0.1.1'
 	
 	}
   
